@@ -497,19 +497,19 @@ var
   qry: TUniQuery;
   current_version: double;
 begin
-  current_version := 0;
-  qry := TUniQuery.Create(nil);
-  try
-    qry.Connection := TUniConnection(conn);
-    qry.SQL.Text := 'select * from version';
-    if table_exisis('version', conn) then
-    begin
-      qry.Open;
-      current_version := qry.FieldByName('db_version').AsFloat;
-    end;
-
-    if FloatToStr(current_version) = FloatToStr(DB.version) then
-      Exit;
+  //current_version := 0;
+  //qry := TUniQuery.Create(nil);
+  //try
+  //  qry.Connection := TUniConnection(conn);
+  //  qry.SQL.Text := 'select * from version';
+  //  if table_exisis('version', conn) then
+  //  begin
+  //    qry.Open;
+  //    current_version := qry.FieldByName('db_version').AsFloat;
+  //  end;
+  //
+  //  if FloatToStr(current_version) = FloatToStr(DB.version) then
+  //    Exit;
     for tbl in DB.tables do
     begin
       if table_exisis(tbl.table_name, conn) then
@@ -530,15 +530,16 @@ begin
         end
         else
           create_table(tbl, conn);
+
       end;
     end;
-    qry.Open;
-    qry.Edit;
-    qry.FieldByName('db_version').AsFloat := DB.version;
-    qry.post;
-  finally
-    qry.Free;
-  end;
+  //  qry.Open;
+  //  qry.Edit;
+  //  qry.FieldByName('db_version').AsFloat := DB.version;
+  //  qry.post;
+  //finally
+  //  qry.Free;
+  //end;
 end;
 
 procedure db_update_from_json(conn: TCustomConnection; json: string);
