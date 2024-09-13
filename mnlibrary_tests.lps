@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="mnlibrary_tests.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="137"/>
+      </Unit>
+      <Unit>
+        <Filename Value="umain.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="174"/>
+        <CursorPos Y="192"/>
+        <UsageCount Value="137"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ujson.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="20"/>
+        <UsageCount Value="137"/>
+      </Unit>
+      <Unit>
+        <Filename Value="udb_types.pas"/>
+        <IsPartOfProject Value="True"/>
+        <TopLine Value="190"/>
+        <CursorPos X="27" Y="201"/>
+        <UsageCount Value="137"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="udb_basic.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="6"/>
+        <TopLine Value="429"/>
+        <CursorPos X="22" Y="245"/>
+        <UsageCount Value="137"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uarrays.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="167"/>
+        <CursorPos X="41" Y="185"/>
+        <UsageCount Value="137"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="udataset.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="50"/>
+        <CursorPos X="57" Y="70"/>
+        <UsageCount Value="131"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ustrings.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="149"/>
+        <CursorPos X="13" Y="182"/>
+        <UsageCount Value="115"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="upaths.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="4"/>
+        <CursorPos X="38" Y="24"/>
+        <UsageCount Value="80"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../dbtools/udb_tools_design.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="5"/>
+        <CursorPos X="23" Y="13"/>
+        <UsageCount Value="67"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ugui.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="150"/>
+        <CursorPos X="58" Y="189"/>
+        <UsageCount Value="66"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../LIB/QuickLib/Quick.Value.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2"/>
+        <CursorPos X="12" Y="359"/>
+        <UsageCount Value="31"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../LIB/QuickLib/samples/fpc/QuickArrays/FlexArrays/ManageFlexArrays.lpr"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2"/>
+        <CursorPos X="9" Y="34"/>
+        <UsageCount Value="31"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/Applications/Lazarus/lcl/include/menuitem.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="250"/>
+        <CursorPos Y="261"/>
+        <UsageCount Value="1"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../LIB/mORMot/SynCommons.pas"/>
+        <EditorIndex Value="8"/>
+        <TopLine Value="45118"/>
+        <CursorPos Y="45129"/>
+        <UsageCount Value="40"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="fpjson.helper.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="519"/>
+        <CursorPos Y="527"/>
+        <UsageCount Value="7"/>
+      </Unit>
+      <Unit>
+        <Filename Value="superobject.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="738"/>
+        <CursorPos X="14" Y="573"/>
+        <UsageCount Value="5"/>
+      </Unit>
+      <Unit>
+        <Filename Value="supertimezone.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="41" Y="18"/>
+        <UsageCount Value="5"/>
+      </Unit>
+      <Unit>
+        <Filename Value="superdate.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="16" Y="2"/>
+        <UsageCount Value="5"/>
+      </Unit>
+      <Unit>
+        <Filename Value="supertypes.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="5"/>
+        <UsageCount Value="5"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/local/share/fpcsrc/3.2.2/packages/rtl-objpas/src/inc/rtti.pp"/>
+        <UnitName Value="Rtti"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="39"/>
+        <CursorPos X="39" Y="57"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../LIB/mORMot/SynSelfTests.pas"/>
+        <EditorIndex Value="7"/>
+        <TopLine Value="104"/>
+        <CursorPos X="5" Y="116"/>
+        <UsageCount Value="37"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../../../fpcupdeluxe/lazarus/lcl/controls.pp"/>
+        <UnitName Value="Controls"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2347"/>
+        <CursorPos X="22" Y="2358"/>
+        <UsageCount Value="24"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../../../fpcupdeluxe/lazarus/lcl/include/control.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="3600"/>
+        <CursorPos Y="3612"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../../../fpcupdeluxe/fpcsrc/rtl/unix/sysutils.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1318"/>
+        <CursorPos Y="16"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../../../fpcupdeluxe/fpcsrc/rtl/objpas/sysutils/syshelph.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="113"/>
+        <CursorPos X="48" Y="126"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../../../fpcupdeluxe/fpcsrc/rtl/objpas/sysutils/syshelp.inc"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="19"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../../../fpcupdeluxe/fpcsrc/rtl/objpas/character.pas"/>
+        <UnitName Value="Character"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="318"/>
+        <CursorPos X="30" Y="338"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../../../fpcupdeluxe/fpcsrc/rtl/objpas/unicodedata.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="481"/>
+        <CursorPos X="12" Y="493"/>
+        <UsageCount Value="9"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="21">
+      <Position>
+        <Filename Value="ustrings.pas"/>
+        <Caret Line="165" TopLine="151"/>
+      </Position>
+      <Position>
+        <Filename Value="ustrings.pas"/>
+        <Caret Line="159" TopLine="151"/>
+      </Position>
+      <Position>
+        <Filename Value="ustrings.pas"/>
+        <Caret Line="161" TopLine="151"/>
+      </Position>
+      <Position>
+        <Filename Value="ustrings.pas"/>
+        <Caret Line="162" TopLine="151"/>
+      </Position>
+      <Position>
+        <Filename Value="ustrings.pas"/>
+        <Caret Line="164" TopLine="151"/>
+      </Position>
+      <Position>
+        <Filename Value="ustrings.pas"/>
+        <Caret Line="165" TopLine="151"/>
+      </Position>
+      <Position>
+        <Filename Value="ustrings.pas"/>
+        <Caret Line="159" TopLine="151"/>
+      </Position>
+      <Position>
+        <Filename Value="ustrings.pas"/>
+        <Caret Line="161" TopLine="151"/>
+      </Position>
+      <Position>
+        <Filename Value="ustrings.pas"/>
+        <Caret Line="162" TopLine="151"/>
+      </Position>
+      <Position>
+        <Filename Value="ustrings.pas"/>
+        <Caret Line="164" TopLine="151"/>
+      </Position>
+      <Position>
+        <Filename Value="ustrings.pas"/>
+        <Caret Line="165" TopLine="151"/>
+      </Position>
+      <Position>
+        <Filename Value="ustrings.pas"/>
+        <Caret Line="159" TopLine="151"/>
+      </Position>
+      <Position>
+        <Filename Value="ustrings.pas"/>
+        <Caret Line="161" TopLine="151"/>
+      </Position>
+      <Position>
+        <Filename Value="ustrings.pas"/>
+        <Caret Line="162" TopLine="151"/>
+      </Position>
+      <Position>
+        <Filename Value="ustrings.pas"/>
+        <Caret Line="164" TopLine="151"/>
+      </Position>
+      <Position>
+        <Filename Value="ustrings.pas"/>
+        <Caret Line="165" TopLine="151"/>
+      </Position>
+      <Position>
+        <Filename Value="ustrings.pas"/>
+        <Caret Line="159" TopLine="151"/>
+      </Position>
+      <Position>
+        <Filename Value="ustrings.pas"/>
+        <Caret Line="161" TopLine="151"/>
+      </Position>
+      <Position>
+        <Filename Value="ustrings.pas"/>
+        <Caret Line="162" TopLine="151"/>
+      </Position>
+      <Position>
+        <Filename Value="ustrings.pas"/>
+        <Caret Line="167" TopLine="151"/>
+      </Position>
+      <Position>
+        <Filename Value="ustrings.pas"/>
+        <Caret Line="164" Column="27" TopLine="151"/>
+      </Position>
+      <Position>
+        <Filename Value="ustrings.pas"/>
+        <Caret Line="182" Column="13" TopLine="149"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="umain.pas"/>
+        <Line Value="200"/>
+      </Item>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="umain.pas"/>
+        <Line Value="192"/>
+      </Item>
+    </BreakPoints>
+  </Debugging>
+</CONFIG>

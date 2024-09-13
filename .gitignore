@@ -1,0 +1,14 @@
+
+lib/x86_64-darwin/
+
+mnlibrary_tests.app/Contents/
+
+.DS_Store
+
+backup/
+
+lib/aarch64-darwin/
+
+mnlibrary_tests
+
+modern_gui/lib/aarch64-darwin/
